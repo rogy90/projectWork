@@ -1,0 +1,26 @@
+{
+  "name": "dhcplaywrighttypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mime": "^3.0.0",
+    "playwright": "1.32.1",
+    "typescript": "5.0.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.32.1"
+  },
+  "scripts": {
+    "regression-test": "npx playwright test --project=chromium --grep @regression",
+    "smoke-test": "npx playwright test --project=chromium --grep @smoke"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/igorhojdanic/dhcplaywrightjavascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/igorhojdanic/dhcplaywrightjavascript#readme"
+}

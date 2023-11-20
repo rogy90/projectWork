@@ -1,0 +1,20 @@
+//Assertion messages
+export const LICENSE_CREATE: string = "Trial license successfully created";
+export const NEW_GUEST_ADDED: string = "You added new guests to your organization";
+export const GUEST_PROJECT_ACCESS_CHANGE: string = "You've changed this guest’s access levels";
+export const GUEST_REMOVE: string = "You removed this guest";
+export const MEMBER_PROJECT_ACCESS_CHANGE: string = "You've changed this person's access level";
+export const NEW_MEMBER_ADDED: string = "You added new members to your organization";
+export const MEMBER_REMOVE: string = "You removed this member from your organization";
+export const MEMBER_ROLE_CHANGE: string = "You've changed this member's role";
+export const IMAGE_UPLOAD: string = "Image upload complete";
+export const UPLOADING_YOUR_IMAGES: string = "Uploading your images the right way";
+export const MB_SECURE_UPLOAD_DATA_PRIVACY_NOTICE: string = "Microblink Secure Upload Data Privacy Notice";
+export const NEW_CREDENTIALS_GENERATED: string = "New credentials generated";
+export const API_KEY_DEACTIVATED: string = "API key is deactivated";
+export const API_KEY_ACTIVATED: string = "API key is activated";
+export const CLOUD_API_CREATED: string = "Success";
+export const CLOUD_API_NEW_CREDENTIALS: string = "You have successfully regenerated your new credentials."
+export const BLINK_ID_SUPPORTED_DOCUMENTS: string = "BlinkID Free trial supported document list";
+export const COPIED_TO_CLIPBOARD: string = "Copied to clipboard.";
+export const SCANNING_HISTORY_TAB: string = "It seems you don’t have any scans yet.";
